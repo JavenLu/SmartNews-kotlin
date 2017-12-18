@@ -1,7 +1,8 @@
-package javen.example.com.smartnewskotlin
+package javen.example.com.smartnewskotlin.main
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import javen.example.com.smartnewskotlin.R
 
 class MainActivity : AppCompatActivity() {
 
